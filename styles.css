@@ -112,5 +112,28 @@ img{
     background: red;
 }
 
+/* About Me */
+
+.container-am{
+    font-size: 20px;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    margin: 0;
+    padding: 3rem;
+    background: white;
+}
+
+.container-am img{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 65%;
+    top: -100px;
+}
+
+
 
 
