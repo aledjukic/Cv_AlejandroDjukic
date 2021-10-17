@@ -147,6 +147,50 @@ img{
     background: white;
 }
 
+/* Contact Me */
+
+.container-contact{
+    font-size: 20px;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    text-align: left;
+    margin: 0;
+    padding: 3rem;
+    background: #333;
+    color: white;
+}
+
+.instagram{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 75%;
+}
+
+.whatsapp{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 13%;
+}
+
+.email{
+    height: 80px;
+    width: 80px;
+    position: relative;
+    left: 35%;
+    top: -60px;
+}
+
+textarea{
+    height: 250px;
+    width: 400px;
+    font-size: 30px;
+    font-family: 'Pt Sans',sans-serif;
+}
+
+
 
 
 
